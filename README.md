@@ -33,6 +33,13 @@ VIM字典仓库
 
 在输入模式下按`<ctrl-x>_<ctrl-k>`即可看到提示内容了
 
+更多字典
+---------
+
+使用EditPlus的字典，将stx调整下另存为dic字典
+
+[http://editplus.com/files.html](http://editplus.com/files.html)
+
 TODO
 -----
 
