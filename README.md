@@ -13,7 +13,7 @@ VIM字典仓库
 
 在`_vimrc`或/`.vimrc`中加入
 
-	Plugin 'asins/vim-dict'
+	Plugin 'katosun2/vim-dict'
 
 重启VIM后运行`:PluginInstall`就能完成安装了。
 
