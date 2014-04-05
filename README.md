@@ -13,9 +13,9 @@ VIM字典仓库
 
 在`_vimrc`或/`.vimrc`中加入
 
-	Bundle 'asins/vim-dict'
+	Plugin 'asins/vim-dict'
 
-重启VIM后运行`:BundleInstall`就能完成安装了。
+重启VIM后运行`:PluginInstall`就能完成安装了。
 
 **常规** 方式安装
 
@@ -36,7 +36,5 @@ VIM字典仓库
 TODO
 -----
 
-  - 加入CSS3的规范字典，但一直没找到一份满意的
-  - javascript要重新整理一份，目前缺少很多EC 5.0的内容
 
 
