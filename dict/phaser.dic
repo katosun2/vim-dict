@@ -11,6 +11,7 @@ angularVelocity
 accelerationFromRotation
 allowGravity
 acceleration
+addKeyCapture
 ARCADE
 bounce
 bringToTop
@@ -31,6 +32,7 @@ enableDrag
 Easing
 frameName
 fillStyle
+forEachExists
 gravity
 generateFrameNames
 immovable
@@ -40,10 +42,13 @@ InOut
 loadTexture
 Linear
 moveToPointer
+makeParticles
 mass
 minBounceVelocity
 maxAngular
 maxVelocity
+onOutOfBounds
+overlap
 Physics
 physicsBodyType
 tween
@@ -58,6 +63,9 @@ spritesheet
 setAll
 setSize
 setRectangle
+setCircle
+setYSpeed
+setXSpeed
 stage
 smoothed
 emitter
